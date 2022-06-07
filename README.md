@@ -1,2 +1,2 @@
 # IntelliPark
-My 2nd year final project related to Mobile Development , Deep Learning and IOT. 
+My 2nd year final project related to Deep Learning and IOT. 
